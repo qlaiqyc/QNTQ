@@ -1,0 +1,20 @@
+body{background-color:#f3f3f3}
+#qlive-body{display:table;margin:0 auto;padding-top:40px;background-color:#f3f3f3;width:1080px}
+.common-model{
+	    width: 1210px;
+    border-color: #c9c9c9;
+    background-color: #fff;
+    box-shadow: 0 1px 2px #d3d3d3;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px 0;
+    padding-top: 20px;
+}
+.common-model .layui-table{
+	    width: 96%;
+    margin: 0 auto;
+    margin-top: 10px
+}
+.common-body{
+	margin-top: 70px;
+}
